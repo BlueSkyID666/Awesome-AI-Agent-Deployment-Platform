@@ -148,6 +148,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom systems**: Combine **LangGraph** or **CrewAI** + **Dify/Flowise/Langflow** for visual layers + **Letta** or **Mem0** for memory + **Langfuse/AgentOps** for observability + **n8n** or Kubernetes for deployment — fully self-hosted production agent platforms.
 
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** [![Stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social&color=white)](https://github.com/Orkas-AI/Orkas/stargazers)
+  Open-source, local-first desktop AI workforce whose Commander coordinates specialist agents through one chat; the open-source edition uses user-selected providers or compatible local model endpoints.
+
 ## 🤝 How to Contribute
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
